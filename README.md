@@ -1,6 +1,6 @@
 # Hi 👋, I'm B S Shreesha
 
-### An experienced Jupyter notebook developer
+### A student of engineering with passion to teach students how to code
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bsshreesha&label=Profile views&color=0e75b6&style=flat" alt="bsshreesha" /> </p>
 
